@@ -1,0 +1,22 @@
+.inicio{
+    border: 5px solid blue;
+    background-color: steelblue;
+    font-style: normal;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.productos{
+    background-color: blue;
+    
+}
+.informacion{
+    background-color: aquamarine;
+    border: 10px solid blue;
+}
+h2{
+    color: black;
+}
+.boton{
+    padding-left: 1200px;
+}
